@@ -6,13 +6,20 @@
 </description>
     <link>http://jaykravetz.github.io/</link>
     <atom:link href="http://jaykravetz.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Oct 2014 14:19:44 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2014 14:19:44 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2014 14:34:52 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2014 14:34:52 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>My first post</title>
-        <description>&lt;p&gt;This is my first post&lt;/p&gt;
+        <description>&lt;p&gt;I’ve finally taken the time to set up a blog. I hope to post interesting content in the future but for now it’s just this.&lt;/p&gt;
+
+&lt;p&gt;I’ve used some great open-source resources to get this up and running:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pages.github.com&quot;&gt;Github Pages&lt;/a&gt; for getting the site live&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; for creating a site without the fuss of a database&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 13:59:10 +0000</pubDate>
         <link>http://jaykravetz.github.io/none/2014/10/29/first-post.html</link>
