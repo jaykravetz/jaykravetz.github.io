@@ -10,3 +10,4 @@ github_username:  jaykravetz
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "\n"
