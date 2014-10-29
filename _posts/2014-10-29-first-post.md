@@ -3,6 +3,7 @@ layout: post
 title:  "My first post"
 date:   2014-10-29 13:59:10
 categories: blog
+comments: true
 ---
 
 I've finally taken the time to set up a blog. I hope to post interesting content in the future but for now it's just this.
