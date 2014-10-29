@@ -4,7 +4,7 @@ email: jay@jaykravetz.net
 description: > # this means to ignore newlines until "baseurl:"
   Musings of a PHP Developer
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jaykravetz.github.io" # the base hostname & protocol for your site
 twitter_username: jaykravetz
 github_username:  jaykravetz
 
